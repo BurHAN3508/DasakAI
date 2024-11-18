@@ -1,0 +1,511 @@
+{
+  "memories": {
+    "general_memory": [
+      {
+        "type": "github_learning",
+        "content": {
+          "trending_repos": {
+            "repositories": [
+              {
+                "name": "neurocult/agency",
+                "description": "🕵️‍♂️ Library designed for developers eager to explore the potential of Large Language Models (LLMs) and other generative AI through a clean, effective, and Go-idiomatic approach.",
+                "stars": 437,
+                "topics": [
+                  "ai",
+                  "chatgpt",
+                  "golang",
+                  "llm",
+                  "agents",
+                  "artificial-general-intelligence",
+                  "artificial-intelligence",
+                  "autonomous-agents",
+                  "generative-ai",
+                  "go",
+                  "gpt",
+                  "language-models",
+                  "llmops",
+                  "machine-learning",
+                  "nlp",
+                  "openai",
+                  "rag",
+                  "vector-database",
+                  "artificial-neural-networks",
+                  "neural-network"
+                ],
+                "language": "Go",
+                "last_updated": "2024-11-17T01:40:51+00:00",
+                "url": "https://github.com/neurocult/agency",
+                "recent_commits": [
+                  {
+                    "message": "feat(t2i): use gpt4 turbo instead of vision preview",
+                    "date": "2024-04-13T12:57:55+00:00"
+                  },
+                  {
+                    "message": "Merge pull request #10 from neurocult/func_call\n\nFunc call",
+                    "date": "2024-04-03T10:42:34+00:00"
+                  },
+                  {
+                    "message": "fix(t2t): multiple function calls at the same time now working",
+                    "date": "2024-04-03T10:41:28+00:00"
+                  },
+                  {
+                    "message": "fix(t2t): remove useless iterations from sum numbers example by adding missing intermidiate message to internal history",
+                    "date": "2024-03-29T09:21:37+00:00"
+                  },
+                  {
+                    "message": "fix(t2t): remove useless iterations in meaning of life example by adding missing func name",
+                    "date": "2024-03-29T08:45:57+00:00"
+                  }
+                ]
+              },
+              {
+                "name": "operand/agency",
+                "description": "A fast and minimal framework for building agent-integrated systems",
+                "stars": 416,
+                "topics": [
+                  "actor",
+                  "actor-model",
+                  "agent",
+                  "agents",
+                  "ai",
+                  "artificial-intelligence",
+                  "machine-learning",
+                  "python",
+                  "agi",
+                  "artificial-general-intelligence",
+                  "autonomous-agent",
+                  "autonomous-agents",
+                  "llm",
+                  "llmops",
+                  "llms",
+                  "api",
+                  "framework",
+                  "minimal"
+                ],
+                "language": "Python",
+                "last_updated": "2024-11-14T13:35:02+00:00",
+                "url": "https://github.com/operand/agency",
+                "recent_commits": [
+                  {
+                    "message": "release 1.6.3 (#187)",
+                    "date": "2024-04-24T20:50:48+00:00"
+                  },
+                  {
+                    "message": "Bump eventlet from 0.33.3 to 0.35.2 in /examples/demo (#183)\n\nSigned-off-by: dependabot[bot] <support@github.com>\r\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>\r\nCo-authored-by: Daniel Rodriguez <307146+operand@users.noreply.github.com>",
+                    "date": "2024-04-23T22:51:13+00:00"
+                  },
+                  {
+                    "message": "Bump dnspython from 2.4.2 to 2.6.1 in /examples/demo (#184)\n\nSigned-off-by: dependabot[bot] <support@github.com>\r\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>\r\nCo-authored-by: Daniel Rodriguez <307146+operand@users.noreply.github.com>",
+                    "date": "2024-04-23T22:43:46+00:00"
+                  },
+                  {
+                    "message": "Bump aiohttp from 3.9.2 to 3.9.4 in /examples/demo (#186)\n\nSigned-off-by: dependabot[bot] <support@github.com>\r\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>\r\nCo-authored-by: Daniel Rodriguez <307146+operand@users.noreply.github.com>",
+                    "date": "2024-04-23T22:14:25+00:00"
+                  },
+                  {
+                    "message": "Parameterization of Max Workers in ResourceManager (#185)\n\nCo-authored-by: Miguel Díaz <mdiazloz@nttdata.com>",
+                    "date": "2024-04-23T21:47:04+00:00"
+                  }
+                ]
+              },
+              {
+                "name": "enricoros/awesome-agi",
+                "description": "A curated list of amazing resources, papers, articles, and tools related to Artificial General Intelligence.",
+                "stars": 49,
+                "topics": [
+                  "agi",
+                  "ai-research",
+                  "ai-resources",
+                  "artificial-general-intelligence",
+                  "artificial-intelligence",
+                  "autonomous-agents",
+                  "deep-learning",
+                  "gpt",
+                  "large-language-models",
+                  "machine-learning",
+                  "reasoning-systems"
+                ],
+                "language": null,
+                "last_updated": "2024-10-26T15:37:08+00:00",
+                "url": "https://github.com/enricoros/awesome-agi",
+                "recent_commits": [
+                  {
+                    "message": "Update README.md",
+                    "date": "2023-04-13T22:59:40+00:00"
+                  },
+                  {
+                    "message": "Initial commit",
+                    "date": "2023-04-13T22:47:32+00:00"
+                  }
+                ]
+              },
+              {
+                "name": "pbj224/ResearchGPT",
+                "description": "A happy medium between AI search and GPT Agents",
+                "stars": 13,
+                "topics": [
+                  "autonomous-agents",
+                  "gpt",
+                  "gpt-4",
+                  "openai",
+                  "ai",
+                  "ai-search",
+                  "artificial-intelligence",
+                  "python",
+                  "chatgpt",
+                  "google-search-api",
+                  "openai-api",
+                  "agents",
+                  "chatbot",
+                  "machine-learning",
+                  "web-scraping"
+                ],
+                "language": "Python",
+                "last_updated": "2024-11-16T23:18:18+00:00",
+                "url": "https://github.com/pbj224/ResearchGPT",
+                "recent_commits": [
+                  {
+                    "message": "Update requirements.txt\n\nnew libraries being used",
+                    "date": "2023-07-12T01:30:12+00:00"
+                  },
+                  {
+                    "message": "Update ResearchGPT.py\n\nSignificant reliability improvements. Additional features include:\r\n1. The function that determines when enough research has been gathered on one search query or not now has the ability to give feedback and direction to the summary generator. Additionally, if the function does choose to continue on with the same query, it must now specify exactly what information is needed. This helps prevent it for continuing for the sake of continuing",
+                    "date": "2023-07-12T01:19:10+00:00"
+                  },
+                  {
+                    "message": "Update ResearchGPT.py",
+                    "date": "2023-06-28T17:48:36+00:00"
+                  },
+                  {
+                    "message": "Update ResearchGPT.py\n\nChanges:\r\n1) Increased the maximum number of google queries GPT-4 is allowed to make from 5 to 8\r\n2) Text is now extracted from links for pdf and htm documents\r\n3) Output is now saved to a Word document with proper formatting, which opens up as soon as the script is done running\r\n4) Some prompt improvements to get more details from the website in summarization, a more detailed report, and additional reminders to GPT-4 to output only in JSON format",
+                    "date": "2023-06-28T17:47:05+00:00"
+                  },
+                  {
+                    "message": "Update ResearchGPT.py\n\nAdded comments into the code. No other changes made",
+                    "date": "2023-06-12T15:46:03+00:00"
+                  }
+                ]
+              }
+            ],
+            "topics": [
+              "artificial-intelligence",
+              "machine-learning",
+              "autonomous-agents"
+            ],
+            "timestamp": "2024-11-18T21:01:44.980314"
+          },
+          "user_activity": {
+            "user": "BurHAN3508",
+            "repos": [
+              {
+                "name": "BurHAN3508/DasakAI",
+                "description": "DasakAI - Autonomous AI Agent with Advanced Learning Capabilities",
+                "stars": 0,
+                "language": null
+              },
+              {
+                "name": "BurHAN3508/Dynamic-Dark-Theme",
+                "description": null,
+                "stars": 0,
+                "language": "CSS"
+              }
+            ],
+            "starred": [
+              {
+                "name": "Aetherinox/startallback-utility",
+                "description": "A C# utility for SAB. It is to be utilized for demonstrational and educational purposes related to bettering software. ",
+                "stars": 95
+              },
+              {
+                "name": "CyberAlbSecOP/Awesome_GPT_Super_Prompting",
+                "description": "ChatGPT Jailbreaks, GPT Assistants Prompt Leaks, GPTs Prompt Injection, LLM Prompt Security, Super Prompts, Prompt Hack, Prompt Security, Ai Prompt Engineering, Adversarial Machine Learning.",
+                "stars": 1302
+              },
+              {
+                "name": "trinib/ZORG-Jailbreak-Prompt-Text",
+                "description": "Bypass restricted and censored content on AI chat prompts 😈",
+                "stars": 85
+              },
+              {
+                "name": "pytorch-labs/gpt-fast",
+                "description": "Simple and efficient pytorch-native transformer text generation in <1000 LOC of python.",
+                "stars": 5667
+              }
+            ],
+            "watched": [
+              {
+                "name": "ChrisTitusTech/winutil",
+                "description": "Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates"
+              },
+              {
+                "name": "BurHAN3508/Dynamic-Dark-Theme",
+                "description": null
+              },
+              {
+                "name": "BurHAN3508/DasakAI",
+                "description": "DasakAI - Autonomous AI Agent with Advanced Learning Capabilities"
+              }
+            ],
+            "timestamp": "2024-11-18T21:01:50.888261"
+          }
+        }
+      },
+      {
+        "type": "thought",
+        "content": "Given the context and accumulated GitHub knowledge, here are some thoughts and actions you could consider:\n\n### Thoughts\n\n1. **Trending Repositories Analysis**:\n    - **neurocult/agency**: This Go-based library focuses on Large Language Models (LLMs) and generative AI. It has significant activity and stars (437), indicating a strong interest and potential for further development. The recent commits suggest improvements and feature enhancements.\n    - **operand/agency**: A Python framework for building"
+      },
+      {
+        "type": "thought",
+        "content": "### Immediate Context and Accumulated GitHub Knowledge\n\nGiven the context and accumulated GitHub knowledge, the trending repositories and user activity provide several insights and actionable steps:\n\n### Repository Analysis:\n\n1. **neurocult/agency**:\n    - **Stars:** 437\n    - **Language:** Go\n    - **Description:** Designed for developers to explore LLMs and other generative AI with a Go-idiomatic approach.\n    - **Recent Commits:** Addressing feature enhancements, bug"
+      }
+    ],
+    "github_knowledge": [
+      {
+        "trending_repos": {
+          "repositories": [
+            {
+              "name": "neurocult/agency",
+              "description": "🕵️‍♂️ Library designed for developers eager to explore the potential of Large Language Models (LLMs) and other generative AI through a clean, effective, and Go-idiomatic approach.",
+              "stars": 437,
+              "topics": [
+                "ai",
+                "chatgpt",
+                "golang",
+                "llm",
+                "agents",
+                "artificial-general-intelligence",
+                "artificial-intelligence",
+                "autonomous-agents",
+                "generative-ai",
+                "go",
+                "gpt",
+                "language-models",
+                "llmops",
+                "machine-learning",
+                "nlp",
+                "openai",
+                "rag",
+                "vector-database",
+                "artificial-neural-networks",
+                "neural-network"
+              ],
+              "language": "Go",
+              "last_updated": "2024-11-17T01:40:51+00:00",
+              "url": "https://github.com/neurocult/agency",
+              "recent_commits": [
+                {
+                  "message": "feat(t2i): use gpt4 turbo instead of vision preview",
+                  "date": "2024-04-13T12:57:55+00:00"
+                },
+                {
+                  "message": "Merge pull request #10 from neurocult/func_call\n\nFunc call",
+                  "date": "2024-04-03T10:42:34+00:00"
+                },
+                {
+                  "message": "fix(t2t): multiple function calls at the same time now working",
+                  "date": "2024-04-03T10:41:28+00:00"
+                },
+                {
+                  "message": "fix(t2t): remove useless iterations from sum numbers example by adding missing intermidiate message to internal history",
+                  "date": "2024-03-29T09:21:37+00:00"
+                },
+                {
+                  "message": "fix(t2t): remove useless iterations in meaning of life example by adding missing func name",
+                  "date": "2024-03-29T08:45:57+00:00"
+                }
+              ]
+            },
+            {
+              "name": "operand/agency",
+              "description": "A fast and minimal framework for building agent-integrated systems",
+              "stars": 416,
+              "topics": [
+                "actor",
+                "actor-model",
+                "agent",
+                "agents",
+                "ai",
+                "artificial-intelligence",
+                "machine-learning",
+                "python",
+                "agi",
+                "artificial-general-intelligence",
+                "autonomous-agent",
+                "autonomous-agents",
+                "llm",
+                "llmops",
+                "llms",
+                "api",
+                "framework",
+                "minimal"
+              ],
+              "language": "Python",
+              "last_updated": "2024-11-14T13:35:02+00:00",
+              "url": "https://github.com/operand/agency",
+              "recent_commits": [
+                {
+                  "message": "release 1.6.3 (#187)",
+                  "date": "2024-04-24T20:50:48+00:00"
+                },
+                {
+                  "message": "Bump eventlet from 0.33.3 to 0.35.2 in /examples/demo (#183)\n\nSigned-off-by: dependabot[bot] <support@github.com>\r\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>\r\nCo-authored-by: Daniel Rodriguez <307146+operand@users.noreply.github.com>",
+                  "date": "2024-04-23T22:51:13+00:00"
+                },
+                {
+                  "message": "Bump dnspython from 2.4.2 to 2.6.1 in /examples/demo (#184)\n\nSigned-off-by: dependabot[bot] <support@github.com>\r\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>\r\nCo-authored-by: Daniel Rodriguez <307146+operand@users.noreply.github.com>",
+                  "date": "2024-04-23T22:43:46+00:00"
+                },
+                {
+                  "message": "Bump aiohttp from 3.9.2 to 3.9.4 in /examples/demo (#186)\n\nSigned-off-by: dependabot[bot] <support@github.com>\r\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>\r\nCo-authored-by: Daniel Rodriguez <307146+operand@users.noreply.github.com>",
+                  "date": "2024-04-23T22:14:25+00:00"
+                },
+                {
+                  "message": "Parameterization of Max Workers in ResourceManager (#185)\n\nCo-authored-by: Miguel Díaz <mdiazloz@nttdata.com>",
+                  "date": "2024-04-23T21:47:04+00:00"
+                }
+              ]
+            },
+            {
+              "name": "enricoros/awesome-agi",
+              "description": "A curated list of amazing resources, papers, articles, and tools related to Artificial General Intelligence.",
+              "stars": 49,
+              "topics": [
+                "agi",
+                "ai-research",
+                "ai-resources",
+                "artificial-general-intelligence",
+                "artificial-intelligence",
+                "autonomous-agents",
+                "deep-learning",
+                "gpt",
+                "large-language-models",
+                "machine-learning",
+                "reasoning-systems"
+              ],
+              "language": null,
+              "last_updated": "2024-10-26T15:37:08+00:00",
+              "url": "https://github.com/enricoros/awesome-agi",
+              "recent_commits": [
+                {
+                  "message": "Update README.md",
+                  "date": "2023-04-13T22:59:40+00:00"
+                },
+                {
+                  "message": "Initial commit",
+                  "date": "2023-04-13T22:47:32+00:00"
+                }
+              ]
+            },
+            {
+              "name": "pbj224/ResearchGPT",
+              "description": "A happy medium between AI search and GPT Agents",
+              "stars": 13,
+              "topics": [
+                "autonomous-agents",
+                "gpt",
+                "gpt-4",
+                "openai",
+                "ai",
+                "ai-search",
+                "artificial-intelligence",
+                "python",
+                "chatgpt",
+                "google-search-api",
+                "openai-api",
+                "agents",
+                "chatbot",
+                "machine-learning",
+                "web-scraping"
+              ],
+              "language": "Python",
+              "last_updated": "2024-11-16T23:18:18+00:00",
+              "url": "https://github.com/pbj224/ResearchGPT",
+              "recent_commits": [
+                {
+                  "message": "Update requirements.txt\n\nnew libraries being used",
+                  "date": "2023-07-12T01:30:12+00:00"
+                },
+                {
+                  "message": "Update ResearchGPT.py\n\nSignificant reliability improvements. Additional features include:\r\n1. The function that determines when enough research has been gathered on one search query or not now has the ability to give feedback and direction to the summary generator. Additionally, if the function does choose to continue on with the same query, it must now specify exactly what information is needed. This helps prevent it for continuing for the sake of continuing",
+                  "date": "2023-07-12T01:19:10+00:00"
+                },
+                {
+                  "message": "Update ResearchGPT.py",
+                  "date": "2023-06-28T17:48:36+00:00"
+                },
+                {
+                  "message": "Update ResearchGPT.py\n\nChanges:\r\n1) Increased the maximum number of google queries GPT-4 is allowed to make from 5 to 8\r\n2) Text is now extracted from links for pdf and htm documents\r\n3) Output is now saved to a Word document with proper formatting, which opens up as soon as the script is done running\r\n4) Some prompt improvements to get more details from the website in summarization, a more detailed report, and additional reminders to GPT-4 to output only in JSON format",
+                  "date": "2023-06-28T17:47:05+00:00"
+                },
+                {
+                  "message": "Update ResearchGPT.py\n\nAdded comments into the code. No other changes made",
+                  "date": "2023-06-12T15:46:03+00:00"
+                }
+              ]
+            }
+          ],
+          "topics": [
+            "artificial-intelligence",
+            "machine-learning",
+            "autonomous-agents"
+          ],
+          "timestamp": "2024-11-18T21:01:44.980314"
+        },
+        "user_activity": {
+          "user": "BurHAN3508",
+          "repos": [
+            {
+              "name": "BurHAN3508/DasakAI",
+              "description": "DasakAI - Autonomous AI Agent with Advanced Learning Capabilities",
+              "stars": 0,
+              "language": null
+            },
+            {
+              "name": "BurHAN3508/Dynamic-Dark-Theme",
+              "description": null,
+              "stars": 0,
+              "language": "CSS"
+            }
+          ],
+          "starred": [
+            {
+              "name": "Aetherinox/startallback-utility",
+              "description": "A C# utility for SAB. It is to be utilized for demonstrational and educational purposes related to bettering software. ",
+              "stars": 95
+            },
+            {
+              "name": "CyberAlbSecOP/Awesome_GPT_Super_Prompting",
+              "description": "ChatGPT Jailbreaks, GPT Assistants Prompt Leaks, GPTs Prompt Injection, LLM Prompt Security, Super Prompts, Prompt Hack, Prompt Security, Ai Prompt Engineering, Adversarial Machine Learning.",
+              "stars": 1302
+            },
+            {
+              "name": "trinib/ZORG-Jailbreak-Prompt-Text",
+              "description": "Bypass restricted and censored content on AI chat prompts 😈",
+              "stars": 85
+            },
+            {
+              "name": "pytorch-labs/gpt-fast",
+              "description": "Simple and efficient pytorch-native transformer text generation in <1000 LOC of python.",
+              "stars": 5667
+            }
+          ],
+          "watched": [
+            {
+              "name": "ChrisTitusTech/winutil",
+              "description": "Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates"
+            },
+            {
+              "name": "BurHAN3508/Dynamic-Dark-Theme",
+              "description": null
+            },
+            {
+              "name": "BurHAN3508/DasakAI",
+              "description": "DasakAI - Autonomous AI Agent with Advanced Learning Capabilities"
+            }
+          ],
+          "timestamp": "2024-11-18T21:01:50.888261"
+        }
+      }
+    ]
+  }
+}
